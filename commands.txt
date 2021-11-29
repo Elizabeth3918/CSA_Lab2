@@ -1,0 +1,6 @@
+MOVE    1
+SAVE    R0
+move    195
+save    R1 
+move    1
+add     195
